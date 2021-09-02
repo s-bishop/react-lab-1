@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+    color: #0e3c7e;
+    font-family: 'Caveat', cursive;
+    border-bottom: solid 1px grey;
+    box-shadow: 4px 4px 3px lightgray;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    margin-left: 15px;
+}
+
+h4 {
+    margin-right: 15px;
+}
